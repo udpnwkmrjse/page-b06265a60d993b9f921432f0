@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "7d6ccbef5aa2171365f7466d",
+  "owner": "udpnwkmrjse",
+  "repo": "page-b06265a60d993b9f921432f0",
+  "title": "速蛙云(fasterfrog)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b06265a60d993b9f921432f0",
+      "a": "速蛙云(fasterfrog)",
+      "b": "免费订阅导入",
+      "entity": "速蛙云(fasterfrog)",
+      "brand": "速蛙云(fasterfrog)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2ec44969d33ee941f313baed06b2ab5cbd899c4a2dc86459f8fe346a10240199",
+      "content": {
+        "primary_entity": "速蛙云(fasterfrog)",
+        "keyword1": "速蛙云(fasterfrog)",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_DESCRIPTION": "，速蛙云(fasterfrog)提供基础版、旗舰版与团队版三档套餐，分别对应每月100GB、300GB与1000GB流量，同时在线设备从3台到20台不等，按年付比按月付更划算。客户端覆盖常见桌面与移动平台，订阅配置以客户端文档为准，可按设备类型选择合适版本。",
+          "AI_HERO_SUBTITLE": "速蛙云多设备订阅选择",
+          "AI_HERO_INTRO": "速蛙云(fasterfrog)面向需要多设备连接的用户，提供基础版、旗舰版与团队版三档订阅。不同套餐在流量、同时在线设备数与节点类型上有明确区分，按年付价格更低，适合个人到小型团队按需求挑选。",
+          "AI_VISUAL_TITLE": "速蛙云套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "按年付价格更划算",
+          "AI_HIGHLIGHT_3": "多平台客户端订阅配置",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURES_INTRO": "速蛙云的订阅选择主要看流量额度、同时在线设备数与节点类型，按年付通常比按月付节省更多。",
+          "AI_FEATURE_TITLE_1": "按设备数量选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按常用设备数量对应选择即可。",
+          "AI_FEATURE_TITLE_2": "按流量需求定档位",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度使用，300GB适合日常多平台，1000GB适合团队共享或高流量场景。",
+          "AI_FEATURE_TITLE_3": "按年付降低月均成本",
+          "AI_FEATURE_TEXT_3": "基础版年付¥150、旗舰版年付¥350、团队版年付¥850，比按月付更节省长期开销。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLIENTS_INTRO": "不同设备选择对应客户端，订阅导入方式参考客户端文档，桌面端与移动端操作略有差异。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点类型上逐级提升，按年付价格分别为¥150、¥350与¥850，可按使用规模选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅导入，按设备类型和客户端文档操作即可。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备系统版本符合客户端运行要求，并留意套餐支持的设备数量上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "下载对应客户端后，依照客户端文档导入订阅信息，完成节点连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐选择与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "根据设备与流量需求挑选速蛙云套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_FAQ_TITLE": "速蛙云常见问题",
+          "AI_FAQ_QUESTION_1": "速蛙云支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "速蛙云提供通用订阅，可在 Windows、macOS、iOS、Android 及部分路由器系统上通过对应客户端导入，具体以客户端兼容情况为准。",
+          "AI_FAQ_QUESTION_2": "如何把订阅导入到客户端？",
+          "AI_FAQ_ANSWER_2": "获取订阅链接后，在所选客户端中找到订阅或配置导入入口，粘贴链接并更新，即可加载节点列表。",
+          "AI_FAQ_QUESTION_3": "基础版与旗舰版怎么选？",
+          "AI_FAQ_ANSWER_3": "每月用量在100GB以内且设备不超过3台可选基础版；有流媒体和游戏加速需求、设备更多时，旗舰版更合适。",
+          "AI_FAQ_QUESTION_4": "套餐可以随时升级吗？",
+          "AI_FAQ_ANSWER_4": "通常支持在套餐周期内升级到更高档位，补足差价即可，具体规则可查看订阅管理中的套餐变更说明。",
+          "AI_FAQ_QUESTION_5": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_5": "以基础版为例，月付15元，年付150元，相当于两个月费用免除；旗舰版和团队版同样提供年付优惠。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "16048953423fe6440ab344388f9a878c1abdaeb84b3f5930c7ae491aab373de3",
+    "sitemap.xml": "e0ac801ab7e61f8b011999e9c603e3518d93b5677c68daf83aab303c80c4fefe",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "c6056e397565f7047e9961f763464fd2ebafee25796e819b53452d6f72554d4f"
+}
